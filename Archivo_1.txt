@@ -19,4 +19,21 @@ git init ** iniciar
 
 git status ** ver si los archivos estan almacenados
 
-git add - nombre del archivo promovido - **pasas a STAGE el archivo
+git add - nombre del archivo promovido - **pasas a la etapa de STAGE el archivo
+
+** Pormover a COMMIT
+git commit -m - nombre del archivo a promover - 
+
+git log ** Permite ver cuando fue la ultima actualización
+
+
+** COMANDO PARA INTEGRAR GIT CON GITHUB
+
+git remote add origin https://github.com/Dioroc/DEVOPS.git
+git push -u origin master
+
+
+
+
+** estructura de DEVOPS
+https://miro.com/app/board/uXjVP12ENmg=/
