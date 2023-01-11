@@ -1,0 +1,22 @@
+Hola Certus
+
+Para agregar información al GIT
+
+iniciamos ejecutando el comando
+
+ls (enter)
+
+luego 
+
+cd " - nombre de la carpeta- "
+** puedes usar ls para ubicarte
+
+mkdir - nombre de la carpeta a crear -
+
+cd - ingresas a la carpeta creada -
+
+git init ** iniciar 
+
+git status ** ver si los archivos estan almacenados
+
+git add - nombre del archivo promovido - **pasas a STAGE el archivo
